@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Doro and I am a passionate computing science student passionate about Research and Artificial Intelligence!
-- 👀 I’m interested in digital art and programming ! 
-- 🌱 I’m currently learning Flutter :)
+- 👋 Hi, I’m 
+- 👀 I’m interested 
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on anything ! 
 - 📫 How to reach me 
 
