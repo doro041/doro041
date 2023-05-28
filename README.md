@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Doroteya or Doro and I am a passionate Computing science student in her 3rd year of studying,interested in AI.
+- 👋 Hi, I’m Doroteya or Doro and I am a passionate Computing science student in her 4th year of studying,interested in AI.
 - 👀 I am an avid learner 
 - 🌱 I’m currently working on a robotics project with the AI society
 - 💞️ I’m looking to collaborate on anything ! 
