@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Doroteya Stoyanova
 #### I am a Computing Science student 
-![I am a Computing Science student ](https://github.com/doro041/doro041/blob/main/github-header-image(2).png)
+![I am a Computing Science student ](https://github.com/doro041/doro041/blob/main/github-header-image(4).png)
 
 As a passionate final-year CS student with a keen interest in Artificial Intelligence and Data Science, I dedicate my spare time to honing my graphic design and UX skills. The combination of technology, creativity, and problem-solving excites me, and I thrive on exploring the intersection of cutting-edge tech and innovative design solutions.
 
@@ -16,7 +16,8 @@ Skills: Python, Java, React/React Native,Angular
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/doro041)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doro041)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/doro041&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=doro041&show_icons=true)
+
 
