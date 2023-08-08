@@ -5,6 +5,8 @@
 As a passionate final-year CS student with a keen interest in Artificial Intelligence and Data Science, I dedicate my spare time to honing my graphic design and UX skills. The combination of technology, creativity, and problem-solving excites me, and I thrive on exploring the intersection of cutting-edge tech and innovative design solutions.
 
 Tech Skills: Python, Java, React/React Native,Angular,Spring Boot,MSSQL,NoSQL, CI/CD
+
+
 Design Skills : Digital Art, UX design,Graphic Design(flyers,posters,logo creation) - portfolio available upon request
 
 - 🔭 I’m currently working on a micromouse robotics project 
