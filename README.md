@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Doroteya Stoyanova
 #### I am a Computing Science student 
-![I am a Computing Science student ](https://github.com/doro041/doro041/blob/main/github-header-image(4).png)
+![I am a Computing Science student ](https://github.com/doro041/doro041/blob/main/github-header-image(5).png)
 
 As a passionate final-year CS student with a keen interest in Artificial Intelligence and Data Science, I dedicate my spare time to honing my graphic design and UX skills. The combination of technology, creativity, and problem-solving excites me, and I thrive on exploring the intersection of cutting-edge tech and innovative design solutions.
 
