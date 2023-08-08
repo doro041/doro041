@@ -4,15 +4,16 @@
 
 As a passionate final-year CS student with a keen interest in Artificial Intelligence and Data Science, I dedicate my spare time to honing my graphic design and UX skills. The combination of technology, creativity, and problem-solving excites me, and I thrive on exploring the intersection of cutting-edge tech and innovative design solutions.
 
-Tech Skills: Python, Java, React/React Native,Angular,Spring Boot,MSSQL,NoSQL, CI/CD
+💻 Tech Skills: Python, Java, React/React Native,Angular,Spring Boot,MSSQL,NoSQL, CI/CD
 
 
-Design Skills : Digital Art, UX design,Graphic Design(flyers,posters,logo creation) - portfolio available upon request
+🖌️ Design Skills : Digital Art, UX design,Graphic Design(flyers,posters,logo creation) - portfolio available upon request
 
 - 🔭 I’m currently working on a micromouse robotics project 
-- 🌱 I’m currently learning Machine Learning principles 
+- 🌱 I’m currently learning Machine Learning principles
+- 🕵️‍♂️  On a relentless quest for knowledge and innovation, exploring the uncharted territories of AI, Robotics and beyond.
 - 📫 How to reach me: doroteyastoyanova@proton.me 
-- ⚡ Fun fact: I can speak 4 languages. 
+- ⚡ Fun fact: I can speak 4 languages.I most likely will pronounse unfamiliar words accurately.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/doro041)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/doroteya-stoyanova-9a4848199//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/dolor.ious//)  
