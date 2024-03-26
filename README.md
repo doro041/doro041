@@ -25,6 +25,5 @@ As a passionate final-year CS student with a keen interest in Artificial Intelli
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=doro041&show_icons=true)
 
 
