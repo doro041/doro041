@@ -1,15 +1,10 @@
 ### Hi there 👋, my name is Doroteya Stoyanova
 
 
-I am a final-year Masters Computing Science student with a strong foundation in Computer Vision and experience in Natural Language Processing. I have led two major Computer Vision projects as part of my academic research. My first dissertation focused on denoising fMRI scans using blind denoising techniques, aiming to enhance signal quality in neuroimaging data. My current dissertation explores real-time instance segmentation, with an emphasis on deploying efficient, lightweight models. The technical stack includes PyTorch, TensorFlow Lite, and Kotlin, tailored for real-time, mobile-compatible inference.
+I am a Master's graduate in Computing Science with a strong foundation in Computer Vision and hands-on experience in Natural Language Processing. I have led two significant research projects in the field of Computer Vision. My first dissertation focused on enhancing neuroimaging data quality through blind denoising techniques applied to fMRI scans. My current dissertation explores real-time instance segmentation, emphasizing the deployment of efficient and lightweight models for mobile applications. This project utilizes a technical stack comprising PyTorch, TensorFlow Lite, and Kotlin, optimized for real-time, on-device inference.
 
 💻 Tech Skills: Most experienced with Python and Java, have some projects in React Native/Kotlin, experienced in Web Development.
-
-
-- 🔭 At the moment, I am developing a real-time application for Few Shot Instance Segmentation of egg-berried lobsters. Yeah, it was an interesting topic for sure :).
-
-- 🌱 I’m working on my masters thesis.
-
+- 🌱 At the moment I am enjoying a small break prior to enrolling into a graduate program at JP Morgan 2025
 - 📫 You can contact me at: doroteyastoyanova@proton.me
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doro041&show_icons=true&locale=en&layout=compact" alt="doro041" /></p>
